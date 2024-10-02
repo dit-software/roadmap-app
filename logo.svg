@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="20" height="20"/>
+  </defs>
+  <rect width="500" height="500" style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(255, 255, 255);"/>
+  <polygon style="stroke: rgb(0, 0, 0); stroke-width: 0px;" points="40 460 160 460 220 240 160 40 40 40 100 240"/>
+  <polygon style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(82, 82, 82);" points="160 460 280 460 340 240 280 40 160 40 220 240"/>
+  <polygon style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(117, 117, 117);" points="280 460 400 460 460 240 400 40 280 40 340 240"/>
+</svg>
