@@ -3,17 +3,17 @@
   "name": "Quick and robust project roadmap",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "images/favicon.png",
       "sizes": "128x128",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "images/logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "images/logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
