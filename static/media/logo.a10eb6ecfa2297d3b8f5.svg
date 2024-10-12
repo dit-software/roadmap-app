@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="20" height="20"/>
+  </defs>
+  <rect width="500" height="500" style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(255, 255, 255);"/>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(255, 0, 0);" d="M 21.605 460 C 41.605 480 101.605 480 121.605 460 C 141.605 440 201.605 260 201.605 240 C 201.605 220 141.605 60 121.605 40 C 101.605 20 41.605 20 21.605 40 C 1.605 60 81.605 220 81.605 240 C 81.605 260 1.605 440 21.605 460 Z"/>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(0, 171, 32);" d="M 160 460 C 180 480 240 480 260 460 C 280 440 340 260 340 240 C 340 220 280 60 260 40 C 240 20 180 20 160 40 C 140 60 220 220 220 240 C 220 260 140 440 160 460 Z"/>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(0, 97, 255);" d="M 300 460 C 320 480 380 480 400 460 C 420 440 480 260 480 240 C 480 220 420 60 400 40 C 380 20 320 20 300 40 C 280 60 360 220 360 240 C 360 260 280 440 300 460 Z"/>
+</svg>

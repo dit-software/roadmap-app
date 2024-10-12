@@ -1,10 +1,11 @@
 {
+  "version": "1.1.0",
   "short_name": "Roadmap",
   "name": "Quick and robust project roadmap",
   "icons": [
     {
       "src": "images/favicon.png",
-      "sizes": "128x128",
+      "sizes": "64x64",
       "type": "image/x-icon"
     },
     {
